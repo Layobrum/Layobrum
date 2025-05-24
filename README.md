@@ -1,5 +1,5 @@
 <!-- Começando o README com uma saudação amigável -->
-# 👋 Prazer, Layo! Bem-vindo ao meu perfil.
+# 👋 Prazer, Layo! Bem-vindo ao meu perfil!
 
 <!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
