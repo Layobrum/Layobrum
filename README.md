@@ -1,4 +1,32 @@
-## Layo Brum
+# Layo Brum 💻
+
+**`Estudante de Tecnologia da Informação`**
+
+Um jovem procurando aprender, apaixonado em e-sports, fascinado por tecnologia com curiosidade e ambição para descobrir o que esse mundo tem a oferecer, estudo Análise e Desenvolvimento de Sistemas, sou técnico em Logística e tenho conhecimentos de programação, robótica e Power BI e análise de dados.
+
+Sou um profissional se desenvolvendo em tecnologia, desenvolvimento de softwares e análise de dados e já liderei uma equipe em um projeto empreendedor, ministrei aulas de robótica em inglês e fui gestor de equipes profissionais de esportes eletrônicos. 
+
+---
+
+### Ling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Teste teste
 
