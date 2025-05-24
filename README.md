@@ -162,7 +162,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     alt="Estatísticas Github"
     height= "200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=layobrum&theme=merko&layout=donut&custom_title=oi" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=layobrum&theme=merko&layout=donut&locale=pt-br" 
 />
 
 ---
@@ -170,35 +170,6 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 ### Principais Repositórios
 
 Em construção...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Teste teste
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 ## Hi there 👋
