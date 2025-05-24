@@ -165,6 +165,15 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=layobrum&theme=merko&layout=donut&locale=pt-br" 
 />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
 
 ### Principais Repositórios
