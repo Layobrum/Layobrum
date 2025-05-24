@@ -1,11 +1,15 @@
-# 👋 Prazer, Layo!
+<!-- Começando o README com uma saudação amigável -->
+# 👋 Prazer, Layo! Bem-vindo ao meu perfil.
 
+<!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
 
+<!-- Começando um "sobre mim" para entenderem quem sou eu -->
 Sou um jovem procurando aprender, apaixonado em e-sports, fascinado por tecnologia com curiosidade e ambição para descobrir o que esse mundo tem a oferecer, estudo Análise e Desenvolvimento de Sistemas, sou técnico em Logística e tenho conhecimentos de programação, robótica e Power BI e análise de dados.
 
 Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvimento de softwares e análise de dados e já liderei uma equipe em um projeto empreendedor, ministrei aulas de robótica em inglês e fui gestor de equipes profissionais de esportes eletrônicos. 
 
+<!-- Definindo os botões para divulgação de redes sociais minhas -->
 <p align="left">
     <!-- <a href="[LINK PRO CURRICULO AQUI]">
         <img alt="curriculo" title="Acesse meu currículo" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%[COR DA DIREITA AQUI]&label=curriculum&logo=[PROCURAR UM CADERNINHO DE LOGO]&logoColor=white&style=for-the-badge&labelColor=[COR DA ESQUERDA AQUI]"/>
@@ -26,6 +30,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 
 ### 👨‍💻 Linguagens e Tecnologias
 
+<!-- Criando cada imagem para as linguagens e tecnologias que eu sei -->
 <img 
     align= "left"
     alt="Python"
@@ -33,6 +38,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
 <img 
     align= "left"
     alt="Numpy"
@@ -40,6 +46,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
 />
+
 <img  
     align= "left"
     alt="Pandas"
@@ -47,6 +54,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
 />
+
 <img  
     align= "left"
     alt="Flask"
@@ -54,6 +62,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
+
 <img  
     align= "left"
     alt="Jupyter"
@@ -61,6 +70,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
+
 <img  
     align= "left"
     alt="HTML"
@@ -68,6 +78,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img  
     align= "left"
     alt="CSS"
@@ -75,6 +86,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img  
     align= "left"
     alt="JavaScript"
@@ -82,6 +94,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img  
     align= "left"
     alt="Java"
@@ -89,6 +102,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img  
     align= "left"
     alt="C"
@@ -96,6 +110,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+
 <img  
     align= "left"
     alt="VSCode"
@@ -103,6 +118,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+
 <img  
     align= "left"
     alt="MySQL"
@@ -110,6 +126,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+
 <img  
     align= "left"
     alt="Oracle"
@@ -117,6 +134,7 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
+
 <img  
     align= "left"
     alt="Windows"
@@ -130,8 +148,26 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 
 ### 🔎 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layobrum&show_icons=true)
+<!-- Criando e transformando o card de estatisticas em uma imagem -->
+<img  
+    align= "left"
+    alt="Estatísticas Github"
+    height= "200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=layobrum&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+/>
 
+<img  
+    align= "left"
+    alt="Estatísticas Github"
+    height= "200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=layobrum&theme=merko&layout=donut&custom_title=Linguagens mais utilizadas" 
+/>
+
+### Principais Repositórios
+
+Em construção...
 
 
 
