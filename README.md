@@ -174,10 +174,6 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
