@@ -148,7 +148,8 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 ### 🔎 Estatísticas
 
 <!-- Criando e transformando o card de estatisticas em uma imagem -->
-<img  
+<img
+    align="left"
     alt="Estatísticas Github"
     height= "200"
     style="padding-right: 10px;"
