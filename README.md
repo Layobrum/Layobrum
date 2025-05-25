@@ -1,13 +1,22 @@
 <!-- Começando o README com uma saudação amigável -->
-# 👋 Prazer, Layo! Bem-vindo ao meu perfil.
+# 👋 Prazer, Layo! Bem-vindo ao meu perfil!
 
 <!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
 
 <!-- Começando um "sobre mim" para entenderem quem sou eu -->
-Sou um jovem procurando aprender, apaixonado em e-sports, fascinado por tecnologia com curiosidade e ambição para descobrir o que esse mundo tem a oferecer, estudo Análise e Desenvolvimento de Sistemas, sou técnico em Logística e tenho conhecimentos de programação, robótica e Power BI e análise de dados.
+Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha curiosidade e ambição me movem a descobrir o que esse mundo tem a oferecer!
 
-Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvimento de softwares e análise de dados e já liderei uma equipe em um projeto empreendedor, ministrei aulas de robótica em inglês e fui gestor de equipes profissionais de esportes eletrônicos. 
+**Formação e Conhecimentos:**
+* Cursando Análise e Desenvolvimento de Sistemas
+* Técnico em Logística
+* Conhecimentos em: Programação, Robótica e Power BI.
+
+**Experiências:**
+* Atualmente no mercado de trabalho, me aprimorando em desenvolvimento de softwares e análise de dados.
+* Liderei uma equipe em um projeto empreendedor.
+* Ministrei aulas de robótica (em inglês).
+* Geri equipes profissionais de e-sports.
 
 <!-- Definindo os botões para divulgação de redes sociais minhas -->
 <p align="left">
@@ -20,8 +29,9 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
     <a href="https://www.linkedin.com/in/layo-brum/">
         <img 
             alt="linkedin" 
-            title="Me encontre no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=linkedin&logoColor=white"
+            title="Me encontre no Linkedin"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-linkedin-0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layo brum&logoColor=white"
+            src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -32,116 +42,108 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 
 <!-- Criando cada imagem para as linguagens e tecnologias que eu sei -->
 <img 
-    align= "left"
     alt="Python"
     title="Python"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-
 <img 
-    align= "left"
     alt="Numpy"
     title="Numpy"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
 />
-
 <img  
-    align= "left"
     alt="Pandas"
     title="Pandas"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
 />
-
 <img  
-    align= "left"
     alt="Flask"
     title="Flask"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
-
 <img  
-    align= "left"
     alt="Jupyter"
     title="Jupyter"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
-
+<img   
+    alt="Scikit-Learn"
+    title="Scikit-Learn"
+    width= "30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
 <img  
-    align= "left"
     alt="HTML"
     title="HTML"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="CSS"
     title="CSS"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="JavaScript"
     title="JavaScript"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="Java"
     title="Java"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="C"
     title="C"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="VSCode"
     title="VSCode"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="MySQL"
     title="MySQL"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
-
 <img  
-    align= "left"
     alt="Oracle"
     title="Oracle"
     width= "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
-
 <img  
-    align= "left"
     alt="Windows"
     title="Windows"
     width= "30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
 />
+<img   
+    alt="Git"
+    title="Git"
+    width= "30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img   
+    alt="Arduino"
+    title="Arduino"
+    width= "30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+/>
+
 
 <br/>
 <br/>
@@ -177,9 +179,11 @@ Também estou no mercado de trabalho me desenvolvendo em tecnologia, desenvolvim
 
 ---
 
-### Principais Repositórios
+### 📌 Principais Repositórios
 
 Em construção...
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layobrum&repo=funcao-data-validade)](https://github.com/layobrum/funcao-data-validade) -->
 
 <!--
 ## Hi there 👋
