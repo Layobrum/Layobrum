@@ -149,7 +149,6 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 
 <!-- Criando e transformando o card de estatisticas em uma imagem -->
 <img  
-    align= "left"
     alt="Estatísticas Github"
     height= "200"
     style="padding-right: 10px;"
@@ -157,7 +156,6 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 />
 
 <img  
-    align= "left"
     alt="Linguagens mais usadas"
     height= "200"
     style="padding-right: 10px;"
@@ -165,9 +163,6 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 />
 
 <div style="clear: both;"></div>
-
-<br/>
-<br/>
 
 ---
 
