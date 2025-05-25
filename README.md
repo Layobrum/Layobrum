@@ -165,7 +165,9 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 />
 
 <div style="clear: both;"></div>
-<br>
+
+<br/>
+<br/>
 
 ---
 
