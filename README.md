@@ -31,7 +31,6 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
             alt="linkedin" 
             title="Me encontre no Linkedin"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-in-0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layo brum&logoColor=white"
-            src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
