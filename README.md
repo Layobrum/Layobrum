@@ -6,7 +6,7 @@
             alt="Typing SVG"
         />
     </a>
-<div/>
+</div>
 
 <!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
