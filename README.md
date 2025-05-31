@@ -1,7 +1,7 @@
 <!-- Começando o README com uma saudação amigável -->
 <a href="https://git.io/typing-svg">
     <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7CA700&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+perfil!"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7CA700&&vCenter=true&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+perfil!"
         alt="Typing SVG"
     />
 </a>
@@ -23,24 +23,19 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 
 <!-- Definindo os botões para divulgação de redes sociais minhas -->
 <p align="left">
-    <!-- <a href="[LINK PRO CURRICULO AQUI]">
-        <img alt="curriculo" title="Acesse meu currículo" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%[COR DA DIREITA AQUI]&label=curriculum&logo=[PROCURAR UM CADERNINHO DE LOGO]&logoColor=white&style=for-the-badge&labelColor=[COR DA ESQUERDA AQUI]"/>
     </a>
-    <a href="https://www.youtube.com/c/fknight">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-    </a> -->
-    <a href="mailto:someone@example.com">
+    <a href="mailto:layobmedeiros@gmail.com">
         <img 
             alt="Email" 
             title="Envie um email"
-            src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=email&label=Email&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=315110&labelColor=315110&style=for-the-badge&logo=email&label=Email&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/layo-brum/">
         <img 
             alt="Linkedin" 
             title="Me encontre no Linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-in-0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn--0077B5?color=1155ba&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white"
         />
     </a>
 </p>
@@ -177,26 +172,17 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 
 ---
 
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--
 ### 📌 Principais Repositórios
 
 Em construção...
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layobrum&repo=funcao-data-validade)](https://github.com/layobrum/funcao-data-validade) -->
-
-<!--
-## Hi there 👋
-**Layobrum/Layobrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layobrum&repo=funcao-data-validade)](https://github.com/layobrum/funcao-data-validade) -->
 
 
