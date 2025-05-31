@@ -1,5 +1,12 @@
 <!-- Começando o README com uma saudação amigável -->
-# 👋 Prazer, Layo! Bem-vindo ao meu perfil!
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7CA700&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+perfil!"
+            alt="Typing SVG"
+        />
+    </a>
+<div/>
 
 <!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
@@ -7,12 +14,10 @@
 <!-- Começando um "sobre mim" para entenderem quem sou eu -->
 Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha curiosidade e ambição me movem a descobrir o que esse mundo tem a oferecer!
 
-**Formação e Conhecimentos:**
+**Sobre mim:**
 * Cursando Análise e Desenvolvimento de Sistemas
 * Técnico em Logística
 * Conhecimentos em: Programação, Robótica e Power BI.
-
-**Experiências:**
 * Atualmente no mercado de trabalho, me aprimorando em desenvolvimento de softwares e análise de dados.
 * Liderei uma equipe em um projeto empreendedor.
 * Ministrei aulas de robótica (em inglês).
@@ -26,6 +31,13 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
     <a href="https://www.youtube.com/c/fknight">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> -->
+    <a href="mailto:someone@example.com">
+        <img 
+            alt="Email" 
+            title="Envie um email"
+            src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white"
+        />
+    </a>
     <a href="https://www.linkedin.com/in/layo-brum/">
         <img 
             alt="Linkedin" 
