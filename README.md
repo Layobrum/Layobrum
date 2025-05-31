@@ -29,18 +29,18 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
     <a href="https://www.youtube.com/c/fknight">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> -->
-    <a href="mailto:someone@example.com">
+    <a href="mailto:someone@example.com" target="_blank">
         <img 
             alt="Email" 
             title="Envie um email"
             src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=email&label=Email&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/layo-brum/">
+    <a href="https://www.linkedin.com/in/layo-brum/" target="_blank">
         <img 
             alt="Linkedin" 
             title="Me encontre no Linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-in-0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white&target=_blank"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-in-0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white"
         />
     </a>
 </p>
