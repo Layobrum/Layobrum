@@ -1,12 +1,10 @@
 <!-- Começando o README com uma saudação amigável -->
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img 
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7CA700&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+perfil!"
-            alt="Typing SVG"
-        />
-    </a>
-</div>
+<a href="https://git.io/typing-svg">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7CA700&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+perfil!"
+        alt="Typing SVG"
+    />
+</a>
 
 <!-- Dizendo sobre meu cargo/vocação do momento -->
 **`Estudante de Tecnologia da Informação`**
@@ -35,7 +33,7 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
         <img 
             alt="Email" 
             title="Envie um email"
-            src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=layobrum&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Email--0077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=email&label=Email&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/layo-brum/">
