@@ -18,7 +18,7 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 * Conhecimentos em: Programação, Robótica e Power BI;
 * Atualmente no mercado de trabalho, me aprimorando em desenvolvimento de softwares e análise de dados;
 * Liderei uma equipe em um projeto empreendedor;
-* Ministrei aulas de robótica (em inglês);
+* Ministrei aulas de robótica em inglês;
 * Geri equipes profissionais de e-sports.
 
 <!-- Definindo os botões para divulgação de redes sociais minhas -->
