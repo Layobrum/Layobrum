@@ -158,14 +158,14 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
     alt="Estatísticas Github"
     height= "200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=layobrum&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Layobrum&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
 />
 
 <img  
     alt="Linguagens mais usadas"
     height= "200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=layobrum&theme=merko&layout=donut&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layobrum&theme=merko&layout=donut&locale=pt-br" 
 />
 
 <div style="clear: both;"></div>
@@ -173,16 +173,7 @@ Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha c
 ---
 
 <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layobrum/Layobrum/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layobrum/Layobrum/output/github-contribution-grid-snake-dark.svg">
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/layobrum/layobrum/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-### 📌 Principais Repositórios
-
-Em construção...
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layobrum&repo=funcao-data-validade)](https://github.com/layobrum/funcao-data-validade) -->
-
-
