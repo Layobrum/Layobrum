@@ -10,7 +10,7 @@
 **`Estudante de Tecnologia da Informação`**
 
 <!-- Começando um "sobre mim" para entenderem quem sou eu -->
-Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha curiosidade e ambição me movem a descobrir o que esse mundo tem a oferecer!
+Sou um jovem procurando aprender e apaixonado por e-sports e tecnologia. Minha curiosidade e ambição me movem a descobrir o que esse mundo tem a oferecer
 
 **Sobre mim:**
 * Cursando Análise e Desenvolvimento de Sistemas;
